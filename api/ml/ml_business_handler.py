@@ -7,4 +7,4 @@ class MLBusinessHandler:
         self.ml_service = MlService()
 
     def check_spacy(self, request):
-        return self.ml_service.hello_world()
+        return self.ml_service.static_string()

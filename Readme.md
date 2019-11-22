@@ -1,4 +1,4 @@
-# Spacy Synthetic Learning
+# spaCy Synthetic Learning
 
 ### Setup
 
